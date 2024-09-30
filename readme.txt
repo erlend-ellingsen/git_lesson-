@@ -1,5 +1,5 @@
 Readme file 
 
-Edited by me 
+Edited by me - this way!
 
 Edit again 
