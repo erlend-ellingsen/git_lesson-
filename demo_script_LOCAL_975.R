@@ -8,4 +8,3 @@ y <- rnorm(500)
 
 # Normal development 
 
-
